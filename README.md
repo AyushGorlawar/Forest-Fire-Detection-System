@@ -23,7 +23,7 @@ This is a smart forest fire detection and alerting system using Arduino UNO R3, 
 
 ## 📷 Circuit Diagram
 
-![Circuit Diagram](circuit-diagram/forest_fire_circuit.png)
+![Circuit Diagram](forest_fire_circuit.png)
 
 ## 📄 Arduino Code
 
